@@ -1,0 +1,29 @@
+:root {
+  --fondo-0: #121c1f;
+  --fondo-1: #182629;
+  --fondo-2: #20343a;
+  --borde: #2f4a4c;
+  --sombra-dura: #0a1214;
+
+  --texto: #c9dccf;
+  --texto-suave: #9bb5a8;
+
+  --fosforo: #7fe0ae;
+  --fosforo-suave: #4fb58a;
+  --fosforo-brillo: rgba(127, 224, 174, 0.35);
+
+  --papel: #e6d9b4;
+  --papel-oscuro: #d3c28f;
+  --tinta: #2e2a22;
+  --tinta-suave: #5a5139;
+
+  --sello: #e8775f;
+  --sello-papel: #b23f2e;
+  --ambar: #f2bd5c;
+  --lila: #a995e6;
+  --cian: #6cc7dc;
+  --fantasma: #bcc6f0;
+  --apagado: #7f8f94;
+
+  --radio: 14px;
+}
